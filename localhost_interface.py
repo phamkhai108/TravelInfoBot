@@ -1,6 +1,7 @@
 import streamlit as st
 import time
-from chat import chat
+from Chat import chat
+import post_install
 
 st.title('Chatbot TIMI')
 

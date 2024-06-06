@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import Text, END
 
 # Import hàm từ file khác
-from chat import chat
+from Chat import chat
 
 class SimpleChatApp:
     def __init__(self, master):

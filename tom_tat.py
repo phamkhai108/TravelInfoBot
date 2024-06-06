@@ -2,6 +2,7 @@ from underthesea import ner, sent_tokenize
 import numpy as np
 import pickle
 import nltk
+nltk.download('punkt')
 from sklearn.metrics import pairwise_distances_argmin_min
 from sklearn.cluster import KMeans
 
