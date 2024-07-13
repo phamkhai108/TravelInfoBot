@@ -17,6 +17,7 @@ _Các bước thực hiện chính_:
 8. Triển khai lên web
 
 **[Demo bot](https://chatbot-galaxy-phamkhai.streamlit.app/)**
+_Lưu ý: Khi truy cập Demo có thể có lỗi chatbot chưa thể chạy,hãy đợi khoản 1 đến 2 phút rồi vào lại đường linh Demo để chatbot hoạt động!_
 ***
 _Một số hình ảnh demo_
 ![ảnh hỏi đáp thông tin](https://github.com/phamkhai108/chatbot-galaxy/blob/main/imgs/image1.png)![chức năng tóm tắt văn bản](https://github.com/phamkhai108/chatbot-galaxy/blob/main/imgs/image4.png)
